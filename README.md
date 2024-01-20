@@ -2,7 +2,7 @@
   <h1>REST API Spring Boot - To-Do List App</h1>
   
   <p>
-    This repository contains a To-Do List application developed using Java, Spring Boot, and H2 database, with Docker for deployment. The project was created as part of the Rocketseat training in 2023.
+    Este repositório contém um aplicativo To-Do List desenvolvido usando Java, Spring Boot e banco de dados H2, com Docker para implantação. O projeto foi criado como parte do treinamento Rocketseat em 2023.
   </p>
   <p>
   <a href="https://github.com/wilson-castro/rocketseat-todo-list/graphs/contributors">
