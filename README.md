@@ -24,6 +24,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="50" height="50"/>
 </p>
 <p>
-  <img src="https://github.com/wilson-castro/rocketseat-todo-list/blob/main/certificate.png" title="Certificate" alt="Certificate" width="600" height="372"/>
+  <img src="https://github.com/wilson-castro/rocketseat-todo-list/blob/main/certificate.PNG" title="Certificate" alt="Certificate" width="600" height="372"/>
 </p>
 </div>
